@@ -1,0 +1,47 @@
+.root {
+    border-bottom: 1px solid #d6d6d6;
+    background-color: white;
+}
+
+.contents {
+    padding: 15px;
+}
+
+.userId {
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.userName {
+    font-weight: 16px;
+    color: #383838;
+    font-weight: 500;
+    font-style: italic;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.address {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #383838;
+}
+
+.highlight {
+    color: rgb(131, 51, 205);
+    font-weight: bold;
+}
+
+.foundInItems {
+    padding: 6px 0px;
+    border-top: 1px solid #eeeeee;
+    border-bottom: 1px solid #eee;
+    margin: 6px auto;
+    font-size: 14px;
+    color: #515151;
+}
+
+.selected {
+    background-color: rgb(249, 249, 207);
+}
